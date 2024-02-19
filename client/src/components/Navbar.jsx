@@ -12,6 +12,9 @@ function Navbar() {
           <Link to="/" className="bg-slate-100 px-2 py-1 rounded-md font-bold">Inicio</Link>
         </li>
         <li>
+          <Link to="/login" className="bg-slate-100 px-2 py-1 rounded-md font-bold">Login</Link>
+        </li>
+        <li>
         <Link to="/new" className="bg-teal-500 text-white px-2 py-1 rounded-md font-bold">Crear nueva tarea</Link>
         </li>
 
