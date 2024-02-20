@@ -86,12 +86,15 @@ Para ejecutar este proyecto en tu máquina local, necesitas abrir dos consolas:
 Se ha realizado 3 test con Cypress
 
 - Un test para boton de login. Con resultado Pass.
+
 ![Test de boton de login](./client/src/assets/botonlogin_pass.png)
 
 - Un test para <h1>Blog de tareas. Con resultado Pass.
+  
 ![Test de boton de login](./client/src/assets/blogtareas_pass.png)
 
 -- Un test para <h1>Tareas. Con resultado Pass.
+
 ![Test de boton de login](./client/src/assets/Tareas_h1_pass.png)
 
 ## Desarrolladora
