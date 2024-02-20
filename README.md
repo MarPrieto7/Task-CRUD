@@ -66,7 +66,7 @@ Para ejecutar este proyecto en tu máquina local, necesitas abrir dos consolas:
 
 ## Uso
 
-####Una vez que el proyecto esté en ejecución, podrás realizar diversas acciones:
+*. Una vez que el proyecto esté en ejecución, podrás realizar diversas acciones:
 
 - Navegar por la Página de Inicio. 
 
@@ -77,10 +77,22 @@ Para ejecutar este proyecto en tu máquina local, necesitas abrir dos consolas:
 - Si has terminado de completar una tarea, al pinchar en el boton de Cambiar estado, puedes ponerle in "check" o bien dejarla sin terminar y figura un "aspa". 
 
 
-####Además, tendrás acceso a un formulario funcional:
+*. Además, tendrás acceso a un formulario funcional:
 
-- Formulario de Inicio de Sesión: Si ya estás registrado, podrás acceder fácilmente a tu cuenta a través del formulario de inicio de sesión.
+- Formulario de Inicio de Sesión: Podrás acceder fácilmente a tu cuenta a través del formulario de inicio de sesión.
 
+## Test Cypress
+
+Se ha realizado 3 test con Cypress
+
+- Un test para boton de login. Con resultado Pass.
+![Test de boton de login](./client/src/assets/botonlogin_pass.png.png)
+
+- Un test para <h1>Blog de tareas. Con resultado Pass.
+![Test de boton de login](./client/src/assets/blogtareas_pass.png)
+
+-- Un test para <h1>Tareas. Con resultado Pass.
+![Test de boton de login](./client/src/assets/Tareas_h1_pass.png)
 
 ## Desarrolladora
 
